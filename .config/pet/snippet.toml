@@ -1,0 +1,4 @@
+[[snippets]]
+  description = "Look for files or directories matching a pattern"
+  command = "find . -type <type=f> -name \"<pattern>\""
+  output = ""
