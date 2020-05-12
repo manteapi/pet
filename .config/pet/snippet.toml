@@ -1,4 +1,9 @@
 [[snippets]]
   description = "Look for files or directories matching a pattern"
-  command = "find . -type <type=f> -name \"<pattern>\""
+  command = "find . -type <type=f> -name <pattern>"
+  output = ""
+
+[[snippets]]
+  description = "List folder content"
+  command = "ls"
   output = ""
